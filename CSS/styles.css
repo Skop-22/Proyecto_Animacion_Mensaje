@@ -1,0 +1,33 @@
+QWidget#widget{
+    background-color: rgba(235,235,235,0.7);
+    border-radius: 15px;
+}
+QLabel#label,#label_3{
+    color: rgb(135,135,135);
+}
+QWidget#widget_2,#widget_4{
+    background-color: rgba(215,215,215,0.6);
+    border-radius: 15px;
+}
+/*Boton de cerrar*/
+QPushButton#Cerrar{
+    background-color: rgba(245,165,165,0.8);
+    color: rgb(115,115,115);
+    border-radius:5px;
+    padding-right:5px;
+    padding-left:5px;
+}
+QPushButton#Cerrar:hover{
+    background-color: rgba(255,145,145,0.8);
+    color: rgb(175,115,115);
+    border-radius:5px;
+    padding-right:7px;
+    padding-left:7px;
+}
+QPushButton#Cerrar:pressed{
+    background-color: rgba(195,145,145,0.8);
+    color: rgb(115,115,115);
+    border-radius:5px;
+    padding-right:6px;
+    padding-left:6px;
+}
