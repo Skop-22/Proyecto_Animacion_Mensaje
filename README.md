@@ -1,4 +1,4 @@
-#proyecto **Animacion de Mensaje**
+# proyecto **Animacion de Mensaje**
 
 En este proyecto se muestra la animacion de tipo de mensage utilizando PySide6 con la propiedad
 > **QPropertyAnimation** para animar la ventana
