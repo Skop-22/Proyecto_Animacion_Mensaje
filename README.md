@@ -1,6 +1,6 @@
-# proyecto **Animacion de Mensaje**
+# proyecto Animacion de Mensaje
 
-En este proyecto se muestra la animacion de tipo de mensage utilizando PySide6 con la propiedad
+En este proyecto se muestra la animación de tipo de mensaje utilizando PySide6 con la propiedad
 > **QPropertyAnimation** para animar la ventana
 Como se muestra en el siguiente codigo
 
@@ -16,7 +16,7 @@ Como se muestra en el siguiente codigo
 ```
 * En el archivo main.py
 
-Usa **with** para abrir el archivo styles.css que se aplica a la cclase windoPrin
+Usa **with** para abrir el archivo styles.css que se aplica a la clase windoPrin
 ---
 ```python
     with open("CSS/styles.css","r") as f:
